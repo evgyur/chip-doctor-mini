@@ -27,7 +27,7 @@ Mini Telegram bot that runs **openclaw doctor --fix** and **openclaw gateway res
 
 3. **Run setup (on the OpenClaw host):**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/chip-doctor-mini.git
+   git clone https://github.com/evgyur/chip-doctor-mini.git
    cd chip-doctor-mini
    chmod +x setup.sh
    ./setup.sh
