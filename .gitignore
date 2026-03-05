@@ -1,0 +1,12 @@
+# Env and secrets — never commit
+.env
+.env.local
+.env.*.local
+doctor-bot.env
+*.env
+!doctor-bot.env.example
+
+# Logs and temp
+*.log
+*.tmp
+.DS_Store

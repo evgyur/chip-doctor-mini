@@ -1,0 +1,2 @@
+*.sh text eol=lf
+*.plist.template text eol=lf
